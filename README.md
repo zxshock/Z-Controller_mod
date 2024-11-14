@@ -14,6 +14,6 @@ Changes:
 - added solder jumper for !IORQGE generation for the NemoIDE interface when using the fomonster firmware
 - added solder jumper for "Power over IDE" when using "Disk on Module" HDDs
 - modified pinout of the CPLD and minor changes to the MCU (both via firmware based on fomonster's github, no change to PCB in case you want to use the KOE firmware/KR1878VE1 MCU) for the "DualPIC Addon" since the fomonster firmware occasionally hangs when using mouse + keyboard at the same time
-- designed "DualPIC Addon" daughterboard which plugs into DA1, DD2 and pins 3-10 on X7
+- designed "DualPIC Addon" daughterboard which plugs into DA1, DD2 and pins 3-10 on X7 and has fancy (optional) LEDs for mouse/keyboard activity
 - added silkscreen layer according to documentation
 - various PCB graffiti (Zilog logo, PCB Patch image, "Death to all fascists!" and adjusted credits)
