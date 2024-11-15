@@ -17,3 +17,5 @@ Changes:
 - designed "DualPIC Addon" daughterboard which plugs into DA1, DD2 and pins 3-10 on X7, which uses PIC16F628a MCUs, since KR1878VE1 ones are not easy to get and has fancy (optional) LEDs for mouse/keyboard activity
 - added silkscreen layer according to documentation
 - various PCB graffiti (Zilog logo, PCB Patch image, "Death to all fascists!" and adjusted credits)
+
+Main layout is still being prototyped, DualPIC addon is done.
