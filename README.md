@@ -18,4 +18,4 @@ Changes:
 - added silkscreen layer according to documentation
 - various PCB graffiti (Zilog logo, PCB Patch image, "Death to all fascists!" and adjusted credits)
 
-Main layout is still being prototyped, DualPIC addon is done.
+Prototyped and working nicely :)
